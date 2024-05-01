@@ -2,7 +2,7 @@
 
 [Practica 12](https://touringchutoy.github.io/AmazingSpiderman/)
 
-[Pagina GithubPages Practica14]()
+[Pagina GithubPages Practica14](https://touringchutoy.github.io/SpectacularSpiderman/)
 
 ## Referencias
 [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
