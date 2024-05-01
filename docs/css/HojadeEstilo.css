@@ -1,0 +1,89 @@
+html{
+  background-color: gray;
+  color: white;
+  scroll-behavior: smooth;
+}
+:root {
+  --primary-color: #f60;
+  --accent-color: #ffc;
+  --primary-font: "Raleway", sans-serif;
+  --font-size: 14px;
+  --color-celeste: rgb(11, 245, 191);
+  --font-size20: 20px;
+}
+img, iframe{
+  max-width: 100%;
+}
+body{
+  font-size: 16px;
+  font-family: "Sedan", serif;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: blanchedalmond;
+  background-color: black;
+}
+a{
+  color: violet;
+  transition: all 0.5s ease-out;
+  font-size: var(--font-size);
+}
+a:hover{
+  color: var(--color-celeste);
+}
+table{
+  width: 100%;
+  font-family: var(--primary-font);
+  font-size: var(--font-size);
+}
+.fs-20 {
+  font-size: var(--font-size20);
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-blueviolet {
+  background-color: blueviolet;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-violet {
+  color: violet;
+}
+
+.text-chocolate {
+  color: chocolate;
+}
+
+.text-black {
+  color: black;
+}
+
+.rounded {
+  border-radius: 100%;
+}
+
+.sepia {
+  filter: sepia(1);
+}
+
+.gray-scale {
+  filter: grayscale(1);
+}
