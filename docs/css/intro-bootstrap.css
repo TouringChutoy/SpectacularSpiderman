@@ -13,7 +13,14 @@
 .bg-orange{
   background-color: var(--bs-orange);
 }
-
+body{
+  font-size: 16px;
+  font-family: "Sedan", serif;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: black;
+}
 table{
   width: 100%;
   font-family: var(--primary-font);
