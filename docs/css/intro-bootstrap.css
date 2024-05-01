@@ -1,0 +1,32 @@
+.text-purple{
+  color: var(--bs-purple);
+}
+.bg-pink{
+  background-color: var(--bs-pink);
+}
+.bg-dark{
+  background-color: var(--bs-dark);
+}
+.text-pink{
+  color: var(--bs-pink);
+}
+.bg-orange{
+  background-color: var(--bs-orange);
+}
+body{
+  font-size: 16px;
+  font-family: "Sedan", serif;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: blanchedalmond;
+  background-color: black;
+}
+table{
+  width: 100%;
+  font-family: var(--primary-font);
+  font-size: var(--font-size);
+}
+.rounded {
+  border-radius: 100%;
+}
