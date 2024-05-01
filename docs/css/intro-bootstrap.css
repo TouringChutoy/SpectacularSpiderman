@@ -13,6 +13,7 @@
 .bg-orange{
   background-color: var(--bs-orange);
 }
+
 table{
   width: 100%;
   font-family: var(--primary-font);
